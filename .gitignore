@@ -1,0 +1,23 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+
+
+# Ignore node_modules
+node_modules/
+
+# Ignore firebase config
+components/firebase.js
+
+# Ignore .env
+.env
